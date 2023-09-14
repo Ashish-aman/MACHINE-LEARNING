@@ -1,0 +1,14 @@
+1.Epoch=20, N=784, H=10, Learning rate=0.01
+: Accuracy = 0.08, Loss = 1.763
+
+2.Epoch=50, N=784, H=10, Learning rate=0.1
+: Accuracy = 0.16, Loss = 1.355
+
+3.Epoch=50, N=784, H=20, Learning rate=0.02
+: Accuracy = 0.14, Loss = 1.513
+
+4.Epoch=10, N=784, H=2, Learning rate=0.01
+: Accuracy = 0.11, Loss = 1.592
+
+5.Epoch=25, N=784, H=4, Learning rate=0.5
+: Accuracy = 0.23, Loss = 1.333
